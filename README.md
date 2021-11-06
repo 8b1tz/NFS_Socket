@@ -1,13 +1,13 @@
-________________________________________________________________
-Dificuldade/facilidade de comunicação com sockets:
 
-Em questão da comunicação tem que ter um orgnaização para manipular as entradas e saidas para que você pegue e mande o que realmente é necessário, só tive dificuldade em questão de organização
-mas depois fluiu bem.
+<h2>Dificuldades/Facilidades:</h2>
 
-Dificuldade/facilidade de se passar mensagens e de interpretá-las
+Em questão da comunicação é necessário ter uma organização para manipular as entradas e saidas para que você pegue e mande o que realmente é necessário, só tive dificuldade em questão dessa organização, mas depois fluiu. Além disso, na questão de passar mensagens e interpretar foi algo mais autómatico não tive dificuldades nesse quesito, além de que como já tinha mexido com a classe File já tinha ideia do funcionamento que eu precisaria implementar. A dificuldade que tive está mais ligada na IDE, pois eu uso muito eclipse porém ele não é bom para mexer com socket, então tive que baixar o IntelliJ IDEA.
 
-Essa parte se você conseguiu fazer tranquilamente a comunicação de socket esso parte será fácil, eu não tive dificuldades nesse quesito.
-_________________________________________________________________
 
-Tive mais dificuldades ao útilizar arquivos por causa do caminho, além disso eu uso eclipse que é horrível para a 
-execução, tive que baixar o IntelliJ IDEA para isso.
+<h2>Funcionamento:</h2>
+
+<h4>Cliente:</h4>
+<img src= "https://user-images.githubusercontent.com/53948477/140623487-3feb43c3-392f-4b79-b4f5-a4cbf3806d8e.png">
+
+<h4>Servidor:</h4>
+<img src= "https://user-images.githubusercontent.com/53948477/140623503-b9dc656f-34a6-4c87-b602-18820ea992f1.png">
