@@ -53,6 +53,9 @@ public class Client {
 							 create - cria arquivo
 							 """);
 				break;
+
+			default:
+				System.out.println("O comando ->"+ comando + "<- não existe");
 			}
 		}
 	}
